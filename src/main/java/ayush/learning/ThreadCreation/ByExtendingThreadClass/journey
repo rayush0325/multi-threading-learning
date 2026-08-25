@@ -1,0 +1,10 @@
+learning to create thread by different methods
+
+1 Extending the Thread Class
+run method of thread created by this method don't allow to return anything
+so checked by printing content on console
+ctreted thread in Main class and used thread.start()
+//concepts
+thread
+inheritance
+overriding
